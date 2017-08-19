@@ -1,0 +1,19 @@
+Source: libdisplaycore-drivers-framebufferindexed
+Section: libraries
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libdisplaycore-drivers-framebufferindexed
+Section: libraries
+Architecture: all
+XBSC-Group: DisplayCore
+XBSC-Subgroup: Drivers
+Depends: libdisplaycore-core
+Provides: FramebufferIndexed.h
+Description: FramebufferIndexed library
+ Framebuffer with 8-bit CLUT
+
+
+
