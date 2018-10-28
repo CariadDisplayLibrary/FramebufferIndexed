@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
 Depends: libdisplaycore-core
 Provides: FramebufferIndexed.h
-Description: FramebufferIndexed library
+Description: Indexed Framebuffer
  Framebuffer with 8-bit CLUT
 
 
