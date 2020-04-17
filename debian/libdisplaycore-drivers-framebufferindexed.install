@@ -1,2 +1,3 @@
-FramebufferIndexed.cpp libraries/DisplayCore/FramebufferIndexed
-FramebufferIndexed.h libraries/DisplayCore/FramebufferIndexed
+library.json libraries/DisplayCore/FramebufferIndexed
+library.properties libraries/DisplayCore/FramebufferIndexed
+src libraries/DisplayCore/FramebufferIndexed
