@@ -1,0 +1,3 @@
+library.json libraries/Cariad/FramebufferIndexed
+library.properties libraries/Cariad/FramebufferIndexed
+src libraries/Cariad/FramebufferIndexed
